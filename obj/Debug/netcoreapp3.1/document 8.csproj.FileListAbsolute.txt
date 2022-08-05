@@ -1,0 +1,14 @@
+C:\Users\hanik\source\repos\document 8\bin\Debug\netcoreapp3.1\document 8.exe
+C:\Users\hanik\source\repos\document 8\bin\Debug\netcoreapp3.1\document 8.deps.json
+C:\Users\hanik\source\repos\document 8\bin\Debug\netcoreapp3.1\document 8.runtimeconfig.json
+C:\Users\hanik\source\repos\document 8\bin\Debug\netcoreapp3.1\document 8.runtimeconfig.dev.json
+C:\Users\hanik\source\repos\document 8\bin\Debug\netcoreapp3.1\document 8.dll
+C:\Users\hanik\source\repos\document 8\bin\Debug\netcoreapp3.1\document 8.pdb
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.csproj.AssemblyReference.cache
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.AssemblyInfoInputs.cache
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.AssemblyInfo.cs
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.csproj.CoreCompileInputs.cache
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.dll
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.pdb
+C:\Users\hanik\source\repos\document 8\obj\Debug\netcoreapp3.1\document 8.genruntimeconfig.cache
